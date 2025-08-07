@@ -1,0 +1,10 @@
+:root {
+  --font-family: "SourceSans";
+  
+  --text-color-white: #FFFFFF;
+  --text-color-gray: #D4D4D4;
+  --text-color-red: #FFD9D9;
+
+  --background-color-black: #242426;
+  --background-color-gray: #262628;
+}
