@@ -1,0 +1,17 @@
+@import url("./styles/reset.css");
+@import url("./styles/fonts.css");
+@import url("./styles/vars.css");
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+* {
+  color: var(--text-color-white);
+  font-family: var(--font-family);
+}
