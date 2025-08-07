@@ -3,7 +3,6 @@ import Tag from "../components/Tag/Tag"
 import CardButton from "../components/CardButton/CardButton"
 import { FaGithub, FaTelegramPlane } from "react-icons/fa"
 import { MdEmail } from "react-icons/md"
-import Video from "../assets/videos/video.mp4.download/video.mp4"
 
 const Home = () => {
   const cardButtons = [
