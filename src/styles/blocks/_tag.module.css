@@ -1,0 +1,9 @@
+.tag {
+  cursor: default;
+  background-color: rgba(238, 95, 95, 0.59);
+  font-size: 13px;
+  color: var(--text-color-red);
+  padding: 5px 10px;
+  border-radius: 999px;
+  border: 1px solid #ce4e50;
+}
